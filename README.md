@@ -3,3 +3,4 @@ PITS Website Rework
 
 Prototype commits:
 1. Home - 07/31/2025
+2. Services - 08/05/2025
